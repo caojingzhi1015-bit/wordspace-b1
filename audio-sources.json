@@ -1,0 +1,1444 @@
+{
+  "provider": "有道词典 dictvoice",
+  "accent": "British English (type=1)",
+  "downloaded": "2026-11-23",
+  "files": [
+    {
+      "file": "audio/001.mp3",
+      "text": "senior"
+    },
+    {
+      "file": "audio/002.mp3",
+      "text": "secondary"
+    },
+    {
+      "file": "audio/003.mp3",
+      "text": "stressful"
+    },
+    {
+      "file": "audio/004.mp3",
+      "text": "challenging"
+    },
+    {
+      "file": "audio/005.mp3",
+      "text": "differ"
+    },
+    {
+      "file": "audio/006.mp3",
+      "text": "previous"
+    },
+    {
+      "file": "audio/007.mp3",
+      "text": "dynamic"
+    },
+    {
+      "file": "audio/008.mp3",
+      "text": "campus"
+    },
+    {
+      "file": "audio/009.mp3",
+      "text": "schedule"
+    },
+    {
+      "file": "audio/010.mp3",
+      "text": "expectation"
+    },
+    {
+      "file": "audio/011.mp3",
+      "text": "confidence"
+    },
+    {
+      "file": "audio/012.mp3",
+      "text": "competence"
+    },
+    {
+      "file": "audio/013.mp3",
+      "text": "chapter"
+    },
+    {
+      "file": "audio/014.mp3",
+      "text": "all in all"
+    },
+    {
+      "file": "audio/015.mp3",
+      "text": "apartment"
+    },
+    {
+      "file": "audio/016.mp3",
+      "text": "am"
+    },
+    {
+      "file": "audio/017.mp3",
+      "text": "shift"
+    },
+    {
+      "file": "audio/018.mp3",
+      "text": "pressure"
+    },
+    {
+      "file": "audio/019.mp3",
+      "text": "leisure"
+    },
+    {
+      "file": "audio/020.mp3",
+      "text": "recover"
+    },
+    {
+      "file": "audio/021.mp3",
+      "text": "injury"
+    },
+    {
+      "file": "audio/022.mp3",
+      "text": "plus"
+    },
+    {
+      "file": "audio/023.mp3",
+      "text": "unfortunately"
+    },
+    {
+      "file": "audio/024.mp3",
+      "text": "challenge"
+    },
+    {
+      "file": "audio/025.mp3",
+      "text": "arise"
+    },
+    {
+      "file": "audio/026.mp3",
+      "text": "lifestyle"
+    },
+    {
+      "file": "audio/027.mp3",
+      "text": "chat"
+    },
+    {
+      "file": "audio/028.mp3",
+      "text": "surf"
+    },
+    {
+      "file": "audio/029.mp3",
+      "text": "surf the Internet"
+    },
+    {
+      "file": "audio/030.mp3",
+      "text": "voluntary"
+    },
+    {
+      "file": "audio/031.mp3",
+      "text": "engine"
+    },
+    {
+      "file": "audio/032.mp3",
+      "text": "search engine"
+    },
+    {
+      "file": "audio/033.mp3",
+      "text": "definitely"
+    },
+    {
+      "file": "audio/034.mp3",
+      "text": "teen"
+    },
+    {
+      "file": "audio/035.mp3",
+      "text": "laptop"
+    },
+    {
+      "file": "audio/036.mp3",
+      "text": "digital"
+    },
+    {
+      "file": "audio/037.mp3",
+      "text": "native"
+    },
+    {
+      "file": "audio/038.mp3",
+      "text": "range"
+    },
+    {
+      "file": "audio/039.mp3",
+      "text": "various"
+    },
+    {
+      "file": "audio/040.mp3",
+      "text": "hardware"
+    },
+    {
+      "file": "audio/041.mp3",
+      "text": "necessity"
+    },
+    {
+      "file": "audio/042.mp3",
+      "text": "convenient"
+    },
+    {
+      "file": "audio/043.mp3",
+      "text": "quality"
+    },
+    {
+      "file": "audio/044.mp3",
+      "text": "from time to time"
+    },
+    {
+      "file": "audio/045.mp3",
+      "text": "living room"
+    },
+    {
+      "file": "audio/046.mp3",
+      "text": "addict"
+    },
+    {
+      "file": "audio/047.mp3",
+      "text": "according to"
+    },
+    {
+      "file": "audio/048.mp3",
+      "text": "in person"
+    },
+    {
+      "file": "audio/049.mp3",
+      "text": "media"
+    },
+    {
+      "file": "audio/050.mp3",
+      "text": "social media"
+    },
+    {
+      "file": "audio/051.mp3",
+      "text": "actually"
+    },
+    {
+      "file": "audio/052.mp3",
+      "text": "drag"
+    },
+    {
+      "file": "audio/053.mp3",
+      "text": "tend to do sth"
+    },
+    {
+      "file": "audio/054.mp3",
+      "text": "goal"
+    },
+    {
+      "file": "audio/055.mp3",
+      "text": "aim"
+    },
+    {
+      "file": "audio/056.mp3",
+      "text": "target"
+    },
+    {
+      "file": "audio/057.mp3",
+      "text": "update"
+    },
+    {
+      "file": "audio/058.mp3",
+      "text": "meanwhile"
+    },
+    {
+      "file": "audio/059.mp3",
+      "text": "distance"
+    },
+    {
+      "file": "audio/060.mp3",
+      "text": "volunteer"
+    },
+    {
+      "file": "audio/061.mp3",
+      "text": "revise"
+    },
+    {
+      "file": "audio/062.mp3",
+      "text": "saying"
+    },
+    {
+      "file": "audio/063.mp3",
+      "text": "ahead"
+    },
+    {
+      "file": "audio/064.mp3",
+      "text": "get ahead"
+    },
+    {
+      "file": "audio/065.mp3",
+      "text": "café"
+    },
+    {
+      "file": "audio/066.mp3",
+      "text": "downtown"
+    },
+    {
+      "file": "audio/067.mp3",
+      "text": "stress"
+    },
+    {
+      "file": "audio/068.mp3",
+      "text": "suffer"
+    },
+    {
+      "file": "audio/069.mp3",
+      "text": "suffer from"
+    },
+    {
+      "file": "audio/070.mp3",
+      "text": "reduce"
+    },
+    {
+      "file": "audio/071.mp3",
+      "text": "expert"
+    },
+    {
+      "file": "audio/072.mp3",
+      "text": "frank"
+    },
+    {
+      "file": "audio/073.mp3",
+      "text": "to be frank"
+    },
+    {
+      "file": "audio/074.mp3",
+      "text": "editor"
+    },
+    {
+      "file": "audio/075.mp3",
+      "text": "remove"
+    },
+    {
+      "file": "audio/076.mp3",
+      "text": "entirely"
+    },
+    {
+      "file": "audio/077.mp3",
+      "text": "position"
+    },
+    {
+      "file": "audio/078.mp3",
+      "text": "military"
+    },
+    {
+      "file": "audio/079.mp3",
+      "text": "due to"
+    },
+    {
+      "file": "audio/080.mp3",
+      "text": "absolutely"
+    },
+    {
+      "file": "audio/081.mp3",
+      "text": "stressed"
+    },
+    {
+      "file": "audio/082.mp3",
+      "text": "extent"
+    },
+    {
+      "file": "audio/083.mp3",
+      "text": "thus"
+    },
+    {
+      "file": "audio/084.mp3",
+      "text": "tension"
+    },
+    {
+      "file": "audio/085.mp3",
+      "text": "organise"
+    },
+    {
+      "file": "audio/086.mp3",
+      "text": "in other words"
+    },
+    {
+      "file": "audio/087.mp3",
+      "text": "function"
+    },
+    {
+      "file": "audio/088.mp3",
+      "text": "seek"
+    },
+    {
+      "file": "audio/089.mp3",
+      "text": "professional"
+    },
+    {
+      "file": "audio/090.mp3",
+      "text": "feature"
+    },
+    {
+      "file": "audio/091.mp3",
+      "text": "typical"
+    },
+    {
+      "file": "audio/092.mp3",
+      "text": "province"
+    },
+    {
+      "file": "audio/093.mp3",
+      "text": "graduate"
+    },
+    {
+      "file": "audio/094.mp3",
+      "text": "graduate from"
+    },
+    {
+      "file": "audio/095.mp3",
+      "text": "certificate"
+    },
+    {
+      "file": "audio/096.mp3",
+      "text": "inspire"
+    },
+    {
+      "file": "audio/097.mp3",
+      "text": "apply"
+    },
+    {
+      "file": "audio/098.mp3",
+      "text": "apply for"
+    },
+    {
+      "file": "audio/099.mp3",
+      "text": "eager"
+    },
+    {
+      "file": "audio/100.mp3",
+      "text": "sort"
+    },
+    {
+      "file": "audio/101.mp3",
+      "text": "sort of"
+    },
+    {
+      "file": "audio/102.mp3",
+      "text": "independently"
+    },
+    {
+      "file": "audio/103.mp3",
+      "text": "power"
+    },
+    {
+      "file": "audio/104.mp3",
+      "text": "supply"
+    },
+    {
+      "file": "audio/105.mp3",
+      "text": "unstable"
+    },
+    {
+      "file": "audio/106.mp3",
+      "text": "dusty"
+    },
+    {
+      "file": "audio/107.mp3",
+      "text": "muddy"
+    },
+    {
+      "file": "audio/108.mp3",
+      "text": "tough"
+    },
+    {
+      "file": "audio/109.mp3",
+      "text": "flash"
+    },
+    {
+      "file": "audio/110.mp3",
+      "text": "give up"
+    },
+    {
+      "file": "audio/111.mp3",
+      "text": "deal with"
+    },
+    {
+      "file": "audio/112.mp3",
+      "text": "responsible"
+    },
+    {
+      "file": "audio/113.mp3",
+      "text": "be responsible for"
+    },
+    {
+      "file": "audio/114.mp3",
+      "text": "attractive"
+    },
+    {
+      "file": "audio/115.mp3",
+      "text": "as well as ……"
+    },
+    {
+      "file": "audio/116.mp3",
+      "text": "laughter"
+    },
+    {
+      "file": "audio/117.mp3",
+      "text": "confident"
+    },
+    {
+      "file": "audio/118.mp3",
+      "text": "besides"
+    },
+    {
+      "file": "audio/119.mp3",
+      "text": "contact"
+    },
+    {
+      "file": "audio/120.mp3",
+      "text": "charity"
+    },
+    {
+      "file": "audio/121.mp3",
+      "text": "organisation"
+    },
+    {
+      "file": "audio/122.mp3",
+      "text": "contribution"
+    },
+    {
+      "file": "audio/123.mp3",
+      "text": "intend"
+    },
+    {
+      "file": "audio/124.mp3",
+      "text": "junior"
+    },
+    {
+      "file": "audio/125.mp3",
+      "text": "formal"
+    },
+    {
+      "file": "audio/126.mp3",
+      "text": "informal"
+    },
+    {
+      "file": "audio/127.mp3",
+      "text": "adapt"
+    },
+    {
+      "file": "audio/128.mp3",
+      "text": "adapt to sth"
+    },
+    {
+      "file": "audio/129.mp3",
+      "text": "gym"
+    },
+    {
+      "file": "audio/130.mp3",
+      "text": "moment"
+    },
+    {
+      "file": "audio/131.mp3",
+      "text": "at the moment"
+    },
+    {
+      "file": "audio/132.mp3",
+      "text": "presentation"
+    },
+    {
+      "file": "audio/133.mp3",
+      "text": "slide"
+    },
+    {
+      "file": "audio/134.mp3",
+      "text": "forward"
+    },
+    {
+      "file": "audio/135.mp3",
+      "text": "look forward to (doing) sth"
+    },
+    {
+      "file": "audio/136.mp3",
+      "text": "digestion"
+    },
+    {
+      "file": "audio/137.mp3",
+      "text": "recreation"
+    },
+    {
+      "file": "audio/138.mp3",
+      "text": "entertainment"
+    },
+    {
+      "file": "audio/139.mp3",
+      "text": "rural"
+    },
+    {
+      "file": "audio/140.mp3",
+      "text": "athlete"
+    },
+    {
+      "file": "audio/141.mp3",
+      "text": "frequency"
+    },
+    {
+      "file": "audio/142.mp3",
+      "text": "prefer"
+    },
+    {
+      "file": "audio/143.mp3",
+      "text": "rather than"
+    },
+    {
+      "file": "audio/144.mp3",
+      "text": "badminton"
+    },
+    {
+      "file": "audio/145.mp3",
+      "text": "golf"
+    },
+    {
+      "file": "audio/146.mp3",
+      "text": "gymnastics"
+    },
+    {
+      "file": "audio/147.mp3",
+      "text": "jog"
+    },
+    {
+      "file": "audio/148.mp3",
+      "text": "cycle"
+    },
+    {
+      "file": "audio/149.mp3",
+      "text": "bowling"
+    },
+    {
+      "file": "audio/150.mp3",
+      "text": "skateboard"
+    },
+    {
+      "file": "audio/151.mp3",
+      "text": "track"
+    },
+    {
+      "file": "audio/152.mp3",
+      "text": "in good/bad shape"
+    },
+    {
+      "file": "audio/153.mp3",
+      "text": "balanced"
+    },
+    {
+      "file": "audio/154.mp3",
+      "text": "diet"
+    },
+    {
+      "file": "audio/155.mp3",
+      "text": "stair"
+    },
+    {
+      "file": "audio/156.mp3",
+      "text": "regularly"
+    },
+    {
+      "file": "audio/157.mp3",
+      "text": "net"
+    },
+    {
+      "file": "audio/158.mp3",
+      "text": "court"
+    },
+    {
+      "file": "audio/159.mp3",
+      "text": "within"
+    },
+    {
+      "file": "audio/160.mp3",
+      "text": "underdog"
+    },
+    {
+      "file": "audio/161.mp3",
+      "text": "defeat"
+    },
+    {
+      "file": "audio/162.mp3",
+      "text": "company"
+    },
+    {
+      "file": "audio/163.mp3",
+      "text": "guy"
+    },
+    {
+      "file": "audio/164.mp3",
+      "text": "champion"
+    },
+    {
+      "file": "audio/165.mp3",
+      "text": "shot"
+    },
+    {
+      "file": "audio/166.mp3",
+      "text": "inspiration"
+    },
+    {
+      "file": "audio/167.mp3",
+      "text": "try out for sth"
+    },
+    {
+      "file": "audio/168.mp3",
+      "text": "bench"
+    },
+    {
+      "file": "audio/169.mp3",
+      "text": "replacement"
+    },
+    {
+      "file": "audio/170.mp3",
+      "text": "desire"
+    },
+    {
+      "file": "audio/171.mp3",
+      "text": "crash"
+    },
+    {
+      "file": "audio/172.mp3",
+      "text": "crash into"
+    },
+    {
+      "file": "audio/173.mp3",
+      "text": "gather"
+    },
+    {
+      "file": "audio/174.mp3",
+      "text": "gather around"
+    },
+    {
+      "file": "audio/175.mp3",
+      "text": "not…anymore"
+    },
+    {
+      "file": "audio/176.mp3",
+      "text": "pack"
+    },
+    {
+      "file": "audio/177.mp3",
+      "text": "sharply"
+    },
+    {
+      "file": "audio/178.mp3",
+      "text": "let sb down"
+    },
+    {
+      "file": "audio/179.mp3",
+      "text": "onto"
+    },
+    {
+      "file": "audio/180.mp3",
+      "text": "extra"
+    },
+    {
+      "file": "audio/181.mp3",
+      "text": "pay off"
+    },
+    {
+      "file": "audio/182.mp3",
+      "text": "keep up with"
+    },
+    {
+      "file": "audio/183.mp3",
+      "text": "energy"
+    },
+    {
+      "file": "audio/184.mp3",
+      "text": "crowd"
+    },
+    {
+      "file": "audio/185.mp3",
+      "text": "clap"
+    },
+    {
+      "file": "audio/186.mp3",
+      "text": "earn"
+    },
+    {
+      "file": "audio/187.mp3",
+      "text": "boxing"
+    },
+    {
+      "file": "audio/188.mp3",
+      "text": "bounce"
+    },
+    {
+      "file": "audio/189.mp3",
+      "text": "belt"
+    },
+    {
+      "file": "audio/190.mp3",
+      "text": "announcement"
+    },
+    {
+      "file": "audio/191.mp3",
+      "text": "defence"
+    },
+    {
+      "file": "audio/192.mp3",
+      "text": "audience"
+    },
+    {
+      "file": "audio/193.mp3",
+      "text": "remind"
+    },
+    {
+      "file": "audio/194.mp3",
+      "text": "bite"
+    },
+    {
+      "file": "audio/195.mp3",
+      "text": "prohibit"
+    },
+    {
+      "file": "audio/196.mp3",
+      "text": "case"
+    },
+    {
+      "file": "audio/197.mp3",
+      "text": "in case"
+    },
+    {
+      "file": "audio/198.mp3",
+      "text": "sign up"
+    },
+    {
+      "file": "audio/199.mp3",
+      "text": "annual"
+    },
+    {
+      "file": "audio/200.mp3",
+      "text": "application"
+    },
+    {
+      "file": "audio/201.mp3",
+      "text": "warm-up"
+    },
+    {
+      "file": "audio/202.mp3",
+      "text": "quit"
+    },
+    {
+      "file": "audio/203.mp3",
+      "text": "halfway"
+    },
+    {
+      "file": "audio/204.mp3",
+      "text": "tip"
+    },
+    {
+      "file": "audio/205.mp3",
+      "text": "ought to"
+    },
+    {
+      "file": "audio/206.mp3",
+      "text": "occupy"
+    },
+    {
+      "file": "audio/207.mp3",
+      "text": "disappointment"
+    },
+    {
+      "file": "audio/208.mp3",
+      "text": "amazingly"
+    },
+    {
+      "file": "audio/209.mp3",
+      "text": "relieve"
+    },
+    {
+      "file": "audio/210.mp3",
+      "text": "strengthen"
+    },
+    {
+      "file": "audio/211.mp3",
+      "text": "immune"
+    },
+    {
+      "file": "audio/212.mp3",
+      "text": "system"
+    },
+    {
+      "file": "audio/213.mp3",
+      "text": "immune system"
+    },
+    {
+      "file": "audio/214.mp3",
+      "text": "cheer up"
+    },
+    {
+      "file": "audio/215.mp3",
+      "text": "weekly"
+    },
+    {
+      "file": "audio/216.mp3",
+      "text": "be fed up with"
+    },
+    {
+      "file": "audio/217.mp3",
+      "text": "awkward"
+    },
+    {
+      "file": "audio/218.mp3",
+      "text": "particular"
+    },
+    {
+      "file": "audio/219.mp3",
+      "text": "in particular"
+    },
+    {
+      "file": "audio/220.mp3",
+      "text": "benefit"
+    },
+    {
+      "file": "audio/221.mp3",
+      "text": "membership"
+    },
+    {
+      "file": "audio/222.mp3",
+      "text": "equipment"
+    },
+    {
+      "file": "audio/223.mp3",
+      "text": "capable"
+    },
+    {
+      "file": "audio/224.mp3",
+      "text": "be capable of"
+    },
+    {
+      "file": "audio/225.mp3",
+      "text": "prevent"
+    },
+    {
+      "file": "audio/226.mp3",
+      "text": "disease"
+    },
+    {
+      "file": "audio/227.mp3",
+      "text": "upper"
+    },
+    {
+      "file": "audio/228.mp3",
+      "text": "flow"
+    },
+    {
+      "file": "audio/229.mp3",
+      "text": "oxygen"
+    },
+    {
+      "file": "audio/230.mp3",
+      "text": "relief"
+    },
+    {
+      "file": "audio/231.mp3",
+      "text": "ache"
+    },
+    {
+      "file": "audio/232.mp3",
+      "text": "guideline"
+    },
+    {
+      "file": "audio/233.mp3",
+      "text": "click"
+    },
+    {
+      "file": "audio/234.mp3",
+      "text": "detail"
+    },
+    {
+      "file": "audio/235.mp3",
+      "text": "principle"
+    },
+    {
+      "file": "audio/236.mp3",
+      "text": "amount"
+    },
+    {
+      "file": "audio/237.mp3",
+      "text": "shortcut"
+    },
+    {
+      "file": "audio/238.mp3",
+      "text": "overnight"
+    },
+    {
+      "file": "audio/239.mp3",
+      "text": "achievable"
+    },
+    {
+      "file": "audio/240.mp3",
+      "text": "make sure"
+    },
+    {
+      "file": "audio/241.mp3",
+      "text": "muscle"
+    },
+    {
+      "file": "audio/242.mp3",
+      "text": "bone"
+    },
+    {
+      "file": "audio/243.mp3",
+      "text": "satisfaction"
+    },
+    {
+      "file": "audio/244.mp3",
+      "text": "sweat"
+    },
+    {
+      "file": "audio/245.mp3",
+      "text": "overdo"
+    },
+    {
+      "file": "audio/246.mp3",
+      "text": "sight"
+    },
+    {
+      "file": "audio/247.mp3",
+      "text": "cyclist"
+    },
+    {
+      "file": "audio/248.mp3",
+      "text": "overtake"
+    },
+    {
+      "file": "audio/249.mp3",
+      "text": "amazed"
+    },
+    {
+      "file": "audio/250.mp3",
+      "text": "sportsmanship"
+    },
+    {
+      "file": "audio/251.mp3",
+      "text": "bronze"
+    },
+    {
+      "file": "audio/252.mp3",
+      "text": "medal"
+    },
+    {
+      "file": "audio/253.mp3",
+      "text": "response"
+    },
+    {
+      "file": "audio/254.mp3",
+      "text": "gesture"
+    },
+    {
+      "file": "audio/255.mp3",
+      "text": "take advantage of sth"
+    },
+    {
+      "file": "audio/256.mp3",
+      "text": "defend"
+    },
+    {
+      "file": "audio/257.mp3",
+      "text": "flexibility"
+    },
+    {
+      "file": "audio/258.mp3",
+      "text": "occasion"
+    },
+    {
+      "file": "audio/259.mp3",
+      "text": "dragon"
+    },
+    {
+      "file": "audio/260.mp3",
+      "text": "Dragon-Boat Festival"
+    },
+    {
+      "file": "audio/261.mp3",
+      "text": "graduation"
+    },
+    {
+      "file": "audio/262.mp3",
+      "text": "lunar"
+    },
+    {
+      "file": "audio/263.mp3",
+      "text": "lunar month"
+    },
+    {
+      "file": "audio/264.mp3",
+      "text": "barbecue"
+    },
+    {
+      "file": "audio/265.mp3",
+      "text": "sticky"
+    },
+    {
+      "file": "audio/266.mp3",
+      "text": "adult"
+    },
+    {
+      "file": "audio/267.mp3",
+      "text": "lantern"
+    },
+    {
+      "file": "audio/268.mp3",
+      "text": "pudding"
+    },
+    {
+      "file": "audio/269.mp3",
+      "text": "turkey"
+    },
+    {
+      "file": "audio/270.mp3",
+      "text": "congratulation"
+    },
+    {
+      "file": "audio/271.mp3",
+      "text": "decorate"
+    },
+    {
+      "file": "audio/272.mp3",
+      "text": "tradition"
+    },
+    {
+      "file": "audio/273.mp3",
+      "text": "monster"
+    },
+    {
+      "file": "audio/274.mp3",
+      "text": "immediately"
+    },
+    {
+      "file": "audio/275.mp3",
+      "text": "gathering"
+    },
+    {
+      "file": "audio/276.mp3",
+      "text": "snack"
+    },
+    {
+      "file": "audio/277.mp3",
+      "text": "put up"
+    },
+    {
+      "file": "audio/278.mp3",
+      "text": "decoration"
+    },
+    {
+      "file": "audio/279.mp3",
+      "text": "let off"
+    },
+    {
+      "file": "audio/280.mp3",
+      "text": "account"
+    },
+    {
+      "file": "audio/281.mp3",
+      "text": "summarise"
+    },
+    {
+      "file": "audio/282.mp3",
+      "text": "host"
+    },
+    {
+      "file": "audio/283.mp3",
+      "text": "sweep"
+    },
+    {
+      "file": "audio/284.mp3",
+      "text": "sweep away"
+    },
+    {
+      "file": "audio/285.mp3",
+      "text": "character"
+    },
+    {
+      "file": "audio/286.mp3",
+      "text": "attach"
+    },
+    {
+      "file": "audio/287.mp3",
+      "text": "upside down"
+    },
+    {
+      "file": "audio/288.mp3",
+      "text": "expectant"
+    },
+    {
+      "file": "audio/289.mp3",
+      "text": "scare"
+    },
+    {
+      "file": "audio/290.mp3",
+      "text": "scare sb/sth away"
+    },
+    {
+      "file": "audio/291.mp3",
+      "text": "flight"
+    },
+    {
+      "file": "audio/292.mp3",
+      "text": "wine"
+    },
+    {
+      "file": "audio/293.mp3",
+      "text": "surround"
+    },
+    {
+      "file": "audio/294.mp3",
+      "text": "accent"
+    },
+    {
+      "file": "audio/295.mp3",
+      "text": "hotpot"
+    },
+    {
+      "file": "audio/296.mp3",
+      "text": "firecracker"
+    },
+    {
+      "file": "audio/297.mp3",
+      "text": "retired"
+    },
+    {
+      "file": "audio/298.mp3",
+      "text": "buzz"
+    },
+    {
+      "file": "audio/299.mp3",
+      "text": "joy"
+    },
+    {
+      "file": "audio/300.mp3",
+      "text": "throughout"
+    },
+    {
+      "file": "audio/301.mp3",
+      "text": "original"
+    },
+    {
+      "file": "audio/302.mp3",
+      "text": "custom"
+    },
+    {
+      "file": "audio/303.mp3",
+      "text": "wedding"
+    },
+    {
+      "file": "audio/304.mp3",
+      "text": "greet"
+    },
+    {
+      "file": "audio/305.mp3",
+      "text": "beer"
+    },
+    {
+      "file": "audio/306.mp3",
+      "text": "teenager"
+    },
+    {
+      "file": "audio/307.mp3",
+      "text": "studio"
+    },
+    {
+      "file": "audio/308.mp3",
+      "text": "as far as"
+    },
+    {
+      "file": "audio/309.mp3",
+      "text": "appropriately"
+    },
+    {
+      "file": "audio/310.mp3",
+      "text": "specific"
+    },
+    {
+      "file": "audio/311.mp3",
+      "text": "neat"
+    },
+    {
+      "file": "audio/312.mp3",
+      "text": "suit"
+    },
+    {
+      "file": "audio/313.mp3",
+      "text": "jeans"
+    },
+    {
+      "file": "audio/314.mp3",
+      "text": "in general"
+    },
+    {
+      "file": "audio/315.mp3",
+      "text": "effort"
+    },
+    {
+      "file": "audio/316.mp3",
+      "text": "make an effort"
+    },
+    {
+      "file": "audio/317.mp3",
+      "text": "represent"
+    },
+    {
+      "file": "audio/318.mp3",
+      "text": "extend"
+    },
+    {
+      "file": "audio/319.mp3",
+      "text": "fortunate"
+    },
+    {
+      "file": "audio/320.mp3",
+      "text": "memory"
+    },
+    {
+      "file": "audio/321.mp3",
+      "text": "stocking"
+    },
+    {
+      "file": "audio/322.mp3",
+      "text": "move in"
+    },
+    {
+      "file": "audio/323.mp3",
+      "text": "somehow"
+    },
+    {
+      "file": "audio/324.mp3",
+      "text": "slightly"
+    },
+    {
+      "file": "audio/325.mp3",
+      "text": "pole"
+    },
+    {
+      "file": "audio/326.mp3",
+      "text": "envelope"
+    },
+    {
+      "file": "audio/327.mp3",
+      "text": "stuff"
+    },
+    {
+      "file": "audio/328.mp3",
+      "text": "lap"
+    },
+    {
+      "file": "audio/329.mp3",
+      "text": "frosty"
+    },
+    {
+      "file": "audio/330.mp3",
+      "text": "patience"
+    },
+    {
+      "file": "audio/331.mp3",
+      "text": "over and over"
+    },
+    {
+      "file": "audio/332.mp3",
+      "text": "eve"
+    },
+    {
+      "file": "audio/333.mp3",
+      "text": "branch"
+    },
+    {
+      "file": "audio/334.mp3",
+      "text": "plate"
+    },
+    {
+      "file": "audio/335.mp3",
+      "text": "behaviour"
+    },
+    {
+      "file": "audio/336.mp3",
+      "text": "whisper"
+    },
+    {
+      "file": "audio/337.mp3",
+      "text": "merry"
+    },
+    {
+      "file": "audio/338.mp3",
+      "text": "ballet"
+    },
+    {
+      "file": "audio/339.mp3",
+      "text": "roll"
+    },
+    {
+      "file": "audio/340.mp3",
+      "text": "catch sb’s eye"
+    },
+    {
+      "file": "audio/341.mp3",
+      "text": "wave"
+    },
+    {
+      "file": "audio/342.mp3",
+      "text": "affair"
+    },
+    {
+      "file": "audio/343.mp3",
+      "text": "swallow"
+    },
+    {
+      "file": "audio/344.mp3",
+      "text": "pass away"
+    },
+    {
+      "file": "audio/345.mp3",
+      "text": "no longer"
+    },
+    {
+      "file": "audio/346.mp3",
+      "text": "event"
+    },
+    {
+      "file": "audio/347.mp3",
+      "text": "description"
+    },
+    {
+      "file": "audio/348.mp3",
+      "text": "awesome"
+    },
+    {
+      "file": "audio/349.mp3",
+      "text": "downstairs"
+    },
+    {
+      "file": "audio/350.mp3",
+      "text": "nowhere"
+    },
+    {
+      "file": "audio/351.mp3",
+      "text": "select"
+    },
+    {
+      "file": "audio/352.mp3",
+      "text": "album"
+    },
+    {
+      "file": "audio/353.mp3",
+      "text": "calm"
+    },
+    {
+      "file": "audio/354.mp3",
+      "text": "calm down"
+    },
+    {
+      "file": "audio/355.mp3",
+      "text": "uniform"
+    },
+    {
+      "file": "audio/356.mp3",
+      "text": "tear"
+    },
+    {
+      "file": "audio/357.mp3",
+      "text": "cuisine"
+    },
+    {
+      "file": "audio/358.mp3",
+      "text": "thoroughly"
+    },
+    {
+      "file": "audio/359.mp3",
+      "text": "humbly"
+    }
+  ],
+  "failures": []
+}
